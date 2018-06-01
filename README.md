@@ -17,5 +17,5 @@ Install the dependencies and devDependencies and start the server.
 ```sh
 $ cd 01-reactjs-landing-page-reactstrap
 $ npm install
-$ node start
+$ npm start
 ```
